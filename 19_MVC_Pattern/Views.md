@@ -6,8 +6,6 @@ Examples
 
 HTML
 
-EJS
-
 Pug
 
 Handlebars
