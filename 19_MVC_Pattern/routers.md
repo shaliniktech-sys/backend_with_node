@@ -14,7 +14,7 @@ Run getUsers()
 
 ---
 
-Example
+Example:
 
 ```js
 const express = require("express");
