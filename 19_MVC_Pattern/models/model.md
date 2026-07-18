@@ -90,4 +90,4 @@ Delete
 
 User.findByIdAndDelete()
 
-Everything related to MongoDB stays inside Model.
+Everything related to Mongodb stays inside Model .
