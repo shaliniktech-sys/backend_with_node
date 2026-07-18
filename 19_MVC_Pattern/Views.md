@@ -12,7 +12,7 @@ Handlebars
 
 ---
 
-If building REST APIs
+If building REST APIs then->
 
 No View is required.
 
