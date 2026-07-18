@@ -1,7 +1,7 @@
 // Import mongoose package
 const mongoose = require("mongoose");
 
-// Create a Schema
+// Create a Schema that will be the blueprint for models
 // A Schema defines the structure of each document inside the collection.
 const userSchema = new mongoose.Schema({
 
