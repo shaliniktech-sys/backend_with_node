@@ -1,6 +1,6 @@
 # Complete MVC Example
 
-Folder Structure
+Folder Structure is as follows:
 
 ```
 project/
