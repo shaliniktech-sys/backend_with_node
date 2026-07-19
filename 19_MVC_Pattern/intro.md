@@ -2,7 +2,7 @@
 
 ## What is MVC?
 
-MVC stands for
+MVC stands for:
 
 - Model
 - View
