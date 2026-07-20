@@ -1,6 +1,6 @@
 # Complete MVC Flow
 
-Suppose browser requests
+Suppose browser requests:
 
 GET /users
 
