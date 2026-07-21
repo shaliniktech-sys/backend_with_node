@@ -7,8 +7,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/Auth-JWT-black?logo=jsonwebtokens)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-![Last Commit](https://img.shields.io/github/last-commit/<your-username>/backend_with_node)
-![Stars](https://img.shields.io/github/stars/<your-username>/backend_with_node?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/shaliniktech-sys/backend_with_node)
+![Stars](https://img.shields.io/github/stars/shaliniktech-sys/backend_with_node?style=social)
 
 ---
 
