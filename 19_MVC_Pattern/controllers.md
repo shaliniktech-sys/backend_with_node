@@ -1,6 +1,6 @@
 # Controllers
 
-Controller is the brain of MVC.
+Controller is a kind of brain of MVC.
 
 It receives requests.
 
