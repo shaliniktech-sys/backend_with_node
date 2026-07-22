@@ -8,7 +8,7 @@ Processes them.
 
 Talks to Model.
 
-Returns response.
+then it Returns response.
 
 ---
 
