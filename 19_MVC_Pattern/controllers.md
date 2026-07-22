@@ -2,7 +2,7 @@
 
 Controller is a kind of brain of MVC.
 
-It receives requests.
+It receives requests in it.
 
 Processes them.
 
