@@ -2,7 +2,7 @@
 
 View means what the user sees.
 
-Examples
+Examples:
 
 HTML
 
